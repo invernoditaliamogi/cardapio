@@ -17,27 +17,6 @@ text-gray: #6b6b6b;
 
 */
 
-/* My Edition Begin */
-
-.imageContainer {
-    border: 1px solid #444;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: 15px;
-    text-align: center;
-}
-.imageContainer > span {
-    display: block;
-    width: 1000px;
-    margin-left: -450px; /* -(width-container width)/2 */
-}
-.imageContainer > span > img {
-    display: inline-block;
-}
-
-/* My Edition End */
-
 html {
   -webkit-font-smoothing: antialiased;
   scroll-behavior: smooth;
