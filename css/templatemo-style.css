@@ -7,10 +7,11 @@ https://templatemo.com/tm-530-mini-profile
 
 Color Codes
 ------------
+red: #FF0000;
+blue: #3398cc;
 brown: #986665;
 green: #98cb00;
 orange: #cc6733;
-blue: #3398cc;
 dark-gray: #676767;
 light-gray: #999999;
 text-gray: #6b6b6b;
@@ -51,16 +52,24 @@ a:hover {
   background-color: rgba(255, 255, 255, 0.8);
 }
 
+.tm-bg-red {
+  background-color: #FF0000;
+}
+
+.tm-bg-blue {
+  background-color: #3398cc;
+}
+
+.tm-bg-brown {
+  background-color: #986665;
+}
+
 .tm-bg-green {
   background-color: #98cb00;
 }
 
 .tm-bg-orange {
   background-color: #cc6733;
-}
-
-.tm-bg-blue {
-  background-color: #3398cc;
 }
 
 .tm-bg-dark-gray {
