@@ -8,6 +8,7 @@ https://templatemo.com/tm-530-mini-profile
 Color Codes
 ------------
 red: #FF0000;
+acai: #42314b;
 blue: #3398cc;
 brown: #D2691E;
 green: #98cb00;
@@ -54,6 +55,10 @@ a:hover {
 
 .tm-bg-red {
   background-color: #FF0000;
+}
+
+.tm-bg-acai {
+  background-color: #42314b;
 }
 
 .tm-bg-blue {
